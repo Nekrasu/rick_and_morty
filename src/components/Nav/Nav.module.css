@@ -1,0 +1,11 @@
+.nav{
+    text-decoration: none;
+    font-family: Rick-And-Morty;
+    font-size: 20px;
+}
+
+.button{
+    justify-content: center;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}

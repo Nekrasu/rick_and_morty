@@ -1,0 +1,14 @@
+.Detail {
+    margin-top: 2rem;
+    text-transform: uppercase;
+    display: inline-block;
+    color: black;
+    border-style: solid;
+    border-radius: 2rem;
+    box-sizing: border-box;
+}
+
+
+.img{
+    border-radius: 3rem;
+}

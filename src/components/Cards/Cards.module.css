@@ -1,0 +1,10 @@
+.CardContainer {
+    margin: 2rem;
+    text-transform: uppercase;
+    display: inline-block;
+    color: #3dfc33;
+    border-style: solid;
+    border-radius: 2rem;
+    box-sizing: border-box;
+    box-shadow: 8px, 8px, 8px #3dfc33;
+}

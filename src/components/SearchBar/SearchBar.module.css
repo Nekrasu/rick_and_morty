@@ -1,0 +1,14 @@
+.Input{
+    background-color: rgb(69, 242, 69);
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+input[type="search"] {
+    font-family: inherit; /* Hereda el font-family del input */
+}
+
+.Boton{
+    font-family: Rick-And-Morty;
+    font-size: 20px;
+}

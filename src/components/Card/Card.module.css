@@ -1,0 +1,9 @@
+.CardContainer {
+    margin: 2rem;
+    text-transform: uppercase;
+    display: inline-block;
+    color: white;
+    border-style: solid;
+    border-radius: 2rem;
+    box-sizing: border-box;
+}
